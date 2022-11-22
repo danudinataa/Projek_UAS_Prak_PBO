@@ -3,7 +3,7 @@
  */
 public class Board
 {
-    /** ukuran default papan */
+    /** ukuran default papan ok*/
     public static final int DEFAULT_GRID_SIZE = 10;
 
     /** panjang minimum kapal */
